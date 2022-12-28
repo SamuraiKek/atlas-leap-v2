@@ -11424,5 +11424,14 @@ endsolid
  Layer height: 0.2mm
  Supports: no
  
+ # Example print:
+ ![IMG_7146-exif-remove](https://user-images.githubusercontent.com/19816790/209798219-bce0565d-1217-445a-aacd-ab89ce8bc5f1.jpeg)
+ ![IMG_7147-exif-remove](https://user-images.githubusercontent.com/19816790/209798267-477e0867-0a16-48c1-8717-cc383a40131d.jpeg)
+![IMG_7149-exif-remove](https://user-images.githubusercontent.com/19816790/209798295-52fd4389-28ce-4dfb-bc4b-4b2b505bbd1c.jpeg)
+![IMG_7150-exif-remove](https://user-images.githubusercontent.com/19816790/209798318-b90013ba-696e-4998-938f-b693972586f5.jpeg)
+![IMG_7153-exif-remove](https://user-images.githubusercontent.com/19816790/209798376-05b98ae3-0dee-4e69-b569-91485a5b61cc.jpeg)
+
+
+ 
 
 I'm done improving on the design, but for those of you that whish to further tinker with it, I've included a .step file that can be easily imported and modified with a 3D modelling software like Fusion 360.
